@@ -1,2 +1,2 @@
 # tutorials-
-Gitandgithub :  Git and Github Cheat Sheet.
+Gitandgithub.md :  Git and Github Cheat Sheet.
