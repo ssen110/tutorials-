@@ -99,7 +99,7 @@
   `git push origin --delete <remoteBranchName>` :delete branch remotely
 
 !-----------------------------------------------------------------
-#gitHUB:
+## GITHUB:
 
 
   `git remote add origin <URL>` :  the URL's short name will be 'origin', so every time origin will be used for the URL.
