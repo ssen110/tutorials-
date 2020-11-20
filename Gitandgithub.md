@@ -12,7 +12,6 @@
 
 !-------------------------------------------------------------------
 
-##:
     All the commits are stored in the github, so we can go and the end of every commit.
 
 ## Creating Branch:
@@ -86,11 +85,17 @@
   Copy another file of original part, then we can try new things on the branch so we dont mess up with the existing model till the new branch is in development part.
 
   `git branch <branch name>`: will create a branch.
-  `git brach` : show all the branches
+  
+   `git brach` : show all the branches
+
   `git checkout <branch name>`: will change to that branch
+  
   `git merge <branch name>` : will merge the branch with master
+  
   `git checkout -b <branch name>` : create and switch to that branch
+  
   `git branch -d <localBranchName>` : delete branch locally
+  
   `git push origin --delete <remoteBranchName>` :delete branch remotely
 
 !-----------------------------------------------------------------
@@ -98,9 +103,13 @@
 
 
   `git remote add origin <URL>` :  the URL's short name will be 'origin', so every time origin will be used for the URL.
+  
   `git remote -v` : will show the URL for fetch and push.
+  
   `git branch <branch name>` : create a new branch.
+  
   `git checkout <branch name>` : to change the branch name.
+  
   `git push -u origin <branch name>` : will push the branch name to the origin.
 
   `git clone <URL>` : for cloning the repository.
