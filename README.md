@@ -1,2 +1,2 @@
 # tutorials-
-adding new things to this folder
+Gitandgithub.md :  Git and Github Cheat Sheet.
